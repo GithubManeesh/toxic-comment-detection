@@ -82,7 +82,7 @@ https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challeng
 ⚙️ Installation
 
 1.Clone the repository
-git clone https://github.com/YOUR_USERNAME/toxic-comment-detector.git
+git clone https://github.com/GitHubManeesh/toxic-comment-detector.git
 
 2.Navigate to the project folder
 cd toxic-comment-detector
